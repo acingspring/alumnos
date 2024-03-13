@@ -1,0 +1,218 @@
+2024-03-13 09:23  INFO 6152 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 6152 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 09:23  INFO 6152 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 09:23  WARN 6152 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 09:23  INFO 6152 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 5.185 seconds (process running for 5.882)
+2024-03-13 09:27  INFO 6395 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 6395 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 09:27  INFO 6395 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 09:28  WARN 6395 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 09:28  WARN 6395 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 09:28  INFO 6395 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 4.497 seconds (process running for 5.516)
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 6558 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 09:28  WARN 6558 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 09:28  WARN 6558 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 4.778 seconds (process running for 5.668)
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@642aebee
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@787bfc52
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@66676d87
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@425d4b46
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@61193f46
+2024-03-13 09:28  INFO 6558 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@46a7d65b
+2024-03-13 09:42  INFO 7446 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 7446 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 09:42  INFO 7446 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 09:42  WARN 7446 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 09:42  WARN 7446 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 09:42  INFO 7446 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 5.787 seconds (process running for 6.746)
+2024-03-13 09:42  INFO 7446 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Vehiculo@3eafd6b9
+2024-03-13 09:42  INFO 7446 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Vehiculo@826732e
+2024-03-13 09:42  INFO 7446 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Vehiculo@c066c72
+2024-03-13 10:01  INFO 9115 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 9115 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 10:01  INFO 9115 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 10:01  WARN 9115 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 10:01  WARN 9115 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 10:01  INFO 9115 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 5.201 seconds (process running for 6.189)
+2024-03-13 10:01  INFO 9115 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@1abb7ef8
+2024-03-13 10:01  INFO 9115 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@4be006ed
+2024-03-13 10:01  INFO 9115 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : es.mde.entidades.Usuario@6121006
+2024-03-13 10:13  INFO 9945 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 9945 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 10:13  INFO 9945 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 10:13  WARN 9945 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 10:13  WARN 9945 --- [alumnos] [restartedMain] o.h.t.s.i.ExceptionHandlerLoggedImpl     : GenerationTarget encountered exception accepting command : Error executing DDL "alter table if exists VEHICULOS add column DTYPE varchar(31) not null" via JDBC [La columna "DTYPE" no permite valores nulos (NULL)
+NULL not allowed for column "DTYPE";]
+
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table if exists VEHICULOS add column DTYPE varchar(31) not null" via JDBC [La columna "DTYPE" no permite valores nulos (NULL)
+NULL not allowed for column "DTYPE";]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:574) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:514) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:286) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:145) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1421) ~[na:na]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:142) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:315) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:450) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1507) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:388) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:364) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1833) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1231) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:949) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.3.jar:3.2.3]
+	at es.mde.alumnos.AlumnosApplication.main(AlumnosApplication.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.2.3.jar:3.2.3]
+Caused by: org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "DTYPE" no permite valores nulos (NULL)
+NULL not allowed for column "DTYPE"; SQL statement:
+INSERT INTO "PUBLIC"."VEHICULOS_COPY_55_0"("ID", "NOMBRE", "USUARIO") OVERRIDING SYSTEM VALUE SELECT "ID", "NOMBRE", "USUARIO" FROM "PUBLIC"."VEHICULOS" [23502-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:262) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:231) ~[h2-2.2.224.jar:2.2.224]
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94) ~[HikariCP-5.0.1.jar:na]
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java) ~[HikariCP-5.0.1.jar:na]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	... 43 common frames omitted
+
+2024-03-13 10:13  WARN 9945 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 10:13  INFO 9945 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.9 seconds (process running for 7.619)
+2024-03-13 10:16  INFO 10245 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 10245 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 10:16  INFO 10245 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 10:16  WARN 10245 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 10:16  WARN 10245 --- [alumnos] [restartedMain] o.h.t.s.i.ExceptionHandlerLoggedImpl     : GenerationTarget encountered exception accepting command : Error executing DDL "alter table if exists VEHICULOS add column TIPO varchar(31) not null" via JDBC [La columna "TIPO" no permite valores nulos (NULL)
+NULL not allowed for column "TIPO";]
+
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table if exists VEHICULOS add column TIPO varchar(31) not null" via JDBC [La columna "TIPO" no permite valores nulos (NULL)
+NULL not allowed for column "TIPO";]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:574) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:514) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:286) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:145) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1421) ~[na:na]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:142) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:315) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:450) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1507) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:388) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:364) ~[spring-orm-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1833) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1231) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:949) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.3.jar:3.2.3]
+	at es.mde.alumnos.AlumnosApplication.main(AlumnosApplication.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.2.3.jar:3.2.3]
+Caused by: org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "TIPO" no permite valores nulos (NULL)
+NULL not allowed for column "TIPO"; SQL statement:
+INSERT INTO "PUBLIC"."VEHICULOS_COPY_65_5"("ID", "NOMBRE", "USUARIO", "TIPOBARCO", "PUERTAS") OVERRIDING SYSTEM VALUE SELECT "ID", "NOMBRE", "USUARIO", "TIPOBARCO", "PUERTAS" FROM "PUBLIC"."VEHICULOS" [23502-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:262) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:231) ~[h2-2.2.224.jar:2.2.224]
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94) ~[HikariCP-5.0.1.jar:na]
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java) ~[HikariCP-5.0.1.jar:na]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80) ~[hibernate-core-6.4.4.Final.jar:6.4.4.Final]
+	... 43 common frames omitted
+
+2024-03-13 10:16  WARN 10245 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 10:16  INFO 10245 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 5.122 seconds (process running for 6.371)
+2024-03-13 10:17  INFO 10401 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 10401 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 10:17  INFO 10401 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 10:17  WARN 10401 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 10:17  WARN 10401 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 10:17  INFO 10401 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.066 seconds (process running for 6.79)
+2024-03-13 10:19  INFO 10726 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 10726 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 10:19  INFO 10726 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 10:19  WARN 10726 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 10:19  WARN 10726 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 10:19  INFO 10726 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.581 seconds (process running for 7.522)
+2024-03-13 10:23  WARN 10726 --- [alumnos] [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: No content to map due to end-of-input]
+2024-03-13 10:27  INFO 11149 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 11149 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 10:27  INFO 11149 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 10:28  WARN 11149 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 10:28  WARN 11149 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 10:28  INFO 11149 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.839 seconds (process running for 7.617)
+2024-03-13 10:37  INFO 11903 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 11903 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 10:37  INFO 11903 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 10:37  WARN 11903 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 10:37  WARN 11903 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 10:37  INFO 11903 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 5.927 seconds (process running for 6.839)
+2024-03-13 13:27  INFO 18685 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 18685 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 13:27  INFO 18685 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 13:27  WARN 18685 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 13:27  WARN 18685 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 13:27  INFO 18685 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.032 seconds (process running for 6.991)
+2024-03-13 13:28  INFO 18941 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 18941 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 13:28  INFO 18941 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 13:28  WARN 18941 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 13:28  WARN 18941 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 13:28  INFO 18941 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 5.834 seconds (process running for 6.787)
+2024-03-13 13:29  INFO 19129 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 19129 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 13:29  INFO 19129 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 13:29  WARN 19129 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 13:30  WARN 19129 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 13:30  INFO 19129 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.019 seconds (process running for 7.085)
+2024-03-13 13:34  INFO 19709 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 19709 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 13:34  INFO 19709 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 13:34  WARN 19709 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 13:34  WARN 19709 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 13:34  INFO 19709 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.135 seconds (process running for 6.893)
+2024-03-13 13:42  INFO 20359 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Starting AlumnosApplication using Java 17.0.9 with PID 20359 (/home/jose/Escritorio/proyectos-clase/alumnos/build/classes/java/main started by jose in /home/jose/Escritorio/proyectos-clase/alumnos)
+2024-03-13 13:42  INFO 20359 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-03-13 13:42  WARN 20359 --- [alumnos] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-03-13 13:42  WARN 20359 --- [alumnos] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-13 13:42  INFO 20359 --- [alumnos] [restartedMain] es.mde.alumnos.AlumnosApplication        : Started AlumnosApplication in 6.123 seconds (process running for 7.066)
